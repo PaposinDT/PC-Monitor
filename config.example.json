@@ -1,0 +1,43 @@
+{
+  "telegram": {
+    "bot_token": "INSERISCI_QUI_IL_TOKEN",
+    "authorized_chat_id": 123456789
+  },
+  "admin_password": "CambiamiSubito123!",
+  "shell": {
+    "enabled": true,
+    "require_password": true
+  },
+  "folders": {
+    "received_files": "ReceivedFiles",
+    "sent_files": "SentFiles",
+    "screenshots": "screenshots",
+    "recordings": "recordings",
+    "logs": "logs"
+  },
+  "popup": {
+    "width": 520,
+    "height": 310,
+    "position": "top_right_soft",
+    "always_on_top": true,
+    "reopen_delay_seconds": 0
+  },
+  "monitoring": {
+    "usb_notifications": true,
+    "network_change_notifications": true,
+    "login_notifications": true
+  },
+  "audio": {
+    "default_record_seconds": 10,
+    "input_device": null,
+    "samplerate": 44100,
+    "channels": 1
+  },
+  "screen": {
+    "default_record_seconds": 5,
+    "fps": 8,
+    "scale": 0.7,
+    "live_interval_seconds": 2,
+    "live_max_minutes": 10
+  }
+}
