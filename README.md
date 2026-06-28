@@ -1,8 +1,6 @@
 # PC-Monitor
 
-A lightweight Telegram-based remote management tool for Windows.
-
-PC-Monitor allows you to monitor and control your own Windows computer directly from Telegram through a simple interactive interface.
+PC-Monitor is a lightweight remote management application that transforms Telegram into a powerful control panel for your Windows PC, providing file management, monitoring, messaging and remote administration through a clean interactive interface.
 
 ---
 
