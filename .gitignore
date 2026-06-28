@@ -1,9 +1,27 @@
+# Config
 config.json
+
+# Logs
 logs/
+*.log
+
+# Runtime
 ReceivedFiles/
 SentFiles/
 screenshots/
 recordings/
+
+# Python
 __pycache__/
-*.pyc
-*.log
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
