@@ -1,0 +1,9 @@
+config.json
+logs/
+ReceivedFiles/
+SentFiles/
+screenshots/
+recordings/
+__pycache__/
+*.pyc
+*.log
